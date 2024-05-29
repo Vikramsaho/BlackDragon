@@ -189,7 +189,7 @@ rm -rf BlackDragon
 
 Then Simply After Cloning The Repository By Typing :
 
-git clone https://github.com/Cyber-Guy1/BlackDragon.git
+git clone https://github.com/Vikramsaho/BlackDragon.git
 
 Then Open Up The BlackDragon Directory:
 
@@ -264,7 +264,7 @@ cyber-guy@Security:~/BlackDragon$ ./Black-Dragon google.com
 
 -------------------------------------
 
-[+] Current Recon Path: => /home/cyber-guy/BlackDragon/google.com/05-05-2021
+[+] Current Recon Path: => /home/Vikramsaho/BlackDragon/google.com/05-05-2021
 
 ====================================
 
